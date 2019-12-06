@@ -1,0 +1,6 @@
+br\com\devmedia\hibernateogm\util\JPAUtil.class
+br\com\devmedia\hibernateogm\entity\Phone.class
+br\com\devmedia\hibernateogm\entity\Contact.class
+br\com\devmedia\hibernateogm\entity\Address.class
+br\com\devmedia\hibernateogm\dao\ContactDao.class
+br\com\devmedia\hibernateogm\AppHibernateOGM.class
